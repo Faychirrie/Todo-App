@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425028683051",
+    "firebase_url": "https://do-more-by-less.firebaseio.com",
+    "project_id": "do-more-by-less",
+    "storage_bucket": "do-more-by-less.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425028683051:android:162df9c51410f6d8",
+        "android_client_info": {
+          "package_name": "com.ellixar.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425028683051-hk0ug7baiifos277v4bg51ebgji0qtna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ellixar.todo",
+            "certificate_hash": "b6fdc18f6e243daddbd4197a1f34e4e91ffe1f5b"
+          }
+        },
+        {
+          "client_id": "425028683051-dqqerpsntof3p0i2gj78omircltqd97f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zq3F7O5AbDWNMXtiTkMvzgT06giyAgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425028683051-dqqerpsntof3p0i2gj78omircltqd97f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
